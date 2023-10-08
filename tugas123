@@ -1,0 +1,142 @@
+<!-- ik,<* -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plasma</title>
+</head>
+<body>
+    <h1><b><center>PANCASILA</center></b></h1>
+    <br>
+    <img src="foto/Pancasila/pancasila1.png" width="100" height="100" align="left" vspace="20" hspace="20" alt="panca1">
+    <br>
+    <br>
+    <b>Ketuhanan Yang Maha Esa</b>
+    <br>
+    <br>
+    <br>
+    <br>
+    <img src="foto/Pancasila/pancasila2.webp" width="100" height="100" align="right" vspace="20" hspace="20" alt="panca2">
+    <br>
+    <p align="right"><b>Kemanusiaan Yang Adil dan Beradab</b></p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <img src="foto/Pancasila/pancasila3.webp" width="100" height="100" align="left" vspace="20" hspace="20" alt="panca3">
+    <br>
+    <br>
+    <b>Persatuan Indonesia</b>
+    <br>
+    <br>
+    <br>
+    <br>
+    <img src="foto/Pancasila/pancasila4.webp" width="100" height="100" align="right" vspace="20" hspace="20" alt="panca4">
+    <br>
+    <p align="right"><b>Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan</b></p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <img src="foto/Pancasila/pancasila5.jpg" width="100" height="100" align="left" vspace="20" hspace="20" alt="panca5">
+    <br>
+    <br>
+    <b>Keadilan sosial bagi seluruh rakyat Indonesia</b>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h1><center><b>Resep Kue Maryam</b></center></h1>
+    <br>
+    <br>
+    <h4 align="left"><b>Bahan-bahan:</b></h4>
+    <ul>
+        <img src="foto/Kue Maryam/kuemarym.jpe" width="275" height="275" align="right" alt="">
+        <li><p>250 gr tepung terigu</p></li>
+        <li><p>1 butir telur</p></li>
+        <li><p>3 sdm margarin, lelehkan</p></li>
+        <li><p>100 ml air hangat</p></li>
+        <li><p>2 sdm susu bubuk</p></li>
+        <li><p>1/2 sdr garam</p></li>
+        <li><p>margarin leleh untuk olesan</p></li>
+        <li><p>minyak untuk merendam</p></li>
+        <hr>
+    </ul>
+    <h4 align="left"><b>Langkah-langkah</b></h4>
+    <ol type="1">
+        <li><p>Campur semua bahan roti jadi satu.</p></li>
+        <img src="foto/Kue Maryam/cara1.jpg" width="100" height="100" alt="">
+        <li><p>Uleni sampai kalis (aku pake tangan) jangan takut jika adonan lengket ya, lumuri tangan sesekali dg tepung (tapi jangan menambahkan tepung) uleni terus sampai adonan kalis.</p></li>
+        <img src="foto/Kue Maryam/cara2.webp" width="100" height="100" alt="">
+        <li>Kalisnya adonan canai tidak sekalis adonan roti ya, kira2 seperti ini sudah cukup.</li>
+        <img src="foto/Kue Maryam/cara3.webp" width="100" height="100" alt="">
+    </ol>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <table width="50%" border="1" cellpadding="4" style="border-collapse:collapse" align="center">
+        <thead>
+            <tr>
+                <th rowspan="3">NIS</th>
+                <th rowspan="3">Nama</th>
+                <th colspan="9">Bulan</th>
+            </tr>
+            <tr>
+                <th colspan="3">Januari</th>
+                <th colspan="3">Februari</th>
+                <th colspan="3">Maret</th>
+            </tr>
+            <tr>
+                <th>S</th>
+                <th>I</th>
+                <th>A</th>
+                <th>S</th>
+                <th>I</th>
+                <th>A</th>
+                <th>S</th>
+                <th>I</th>
+                <th>A</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>111</td>
+                <td>Zulkarnaen</td>
+                <td>0</td>
+                <td>2</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>1</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>112</td>
+                <td>Zulkifli</td>
+                <td>10</td>
+                <td>2</td>
+                <td>3</td>
+                <td>21</td>
+                <td>9</td>
+                <td>0</td>
+                <td>20</td>
+                <td>30</td>
+                <td>2</td>
+            </tr>
+        </tbody>
+    </table>
+
+<br>
+<br>
+<br>
+</body>
+</html>
